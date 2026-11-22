@@ -1,0 +1,12 @@
+[onshape]
+base_url = "https://cad.onshape.com"
+document_url = "https://cad.onshape.com/documents/ac588a7eb5b28f6e253c36ae/w/bc09979a038c263a7fdeab60/e/9c3580491767c4fcccc697de"
+api_version = "v12"
+
+[export]
+product_column = "Produktzeile"
+product_value = "export"
+units = "millimeter"
+mesh_resolution = "fine"
+translation_timeout_seconds = 900
+poll_interval_seconds = 3
