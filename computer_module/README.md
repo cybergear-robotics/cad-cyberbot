@@ -12,9 +12,9 @@
 
 ### Exploded Views
 
-#### Explode 2
+#### View 1
 
-![Explode 2](assembly/exploded/01-Explode-2.png)
+![View 1](assembly/exploded/01-View-1.png)
 
 ## Bill of Materials
 
