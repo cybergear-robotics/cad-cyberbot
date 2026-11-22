@@ -1,2 +1,3 @@
-# cad-cyberbot
-CAD files exported from onshape
+# Cyberbot CAD
+
+- [Computer Module](computer_module/README.md)
